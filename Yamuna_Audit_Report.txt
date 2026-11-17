@@ -1,0 +1,16 @@
+========================================================================================
+           YAMUNA RIVER WATER QUALITY & EFFLUENT MONITORING SYSTEM (SDG 6)
+========================================================================================
+Station            pH    DO(mg/L)  BOD(mg/L) Coliform   Froth-Idx  CPCB Class  Status
+----------------------------------------------------------------------------------------
+Palla (Inflow)     7.4   6.8       1.8       1100       Low        Class B     Safe
+Wazirabad Barrage  7.6   5.2       2.9       2400       Low        Class B     Moderate
+ITO Bridge         7.9   0.8       26.5      24000      High       Below-E     [DEAD ZONE]
+Nizamuddin Bridge  8.0   0.4       29.0      31000      High       Below-E     [DEAD ZONE]
+Okhla Barrage      8.2   0.0       34.0      38000      Critical   Below-E     [TOXIC FOAM]
+----------------------------------------------------------------------------------------
+[EXCEPTION ALERT] Critical Anoxia at ITO Bridge (DO: 0.8 mg/L < 1.0 mg/L threshold)
+[EXCEPTION ALERT] Critical Anoxia at Nizamuddin Bridge (DO: 0.4 mg/L < 1.0 mg/L threshold)
+[EXCEPTION ALERT] Critical Anoxia at Okhla Barrage (DO: 0.0 mg/L < 1.0 mg/L threshold)
+
+[SIMULATION] Post-Merge BOD: 22.4 mg/L | Required STP BOD Reduction: 86.6%
